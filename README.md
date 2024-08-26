@@ -5,4 +5,3 @@ Delete Task: Select a task and click "Delete selected task."
 Mark as Completed: Pick a task and hit "Mark as completed" to check it
 off. 
 Update: Keep your list organized with the "Update" button.
-Task completed successfully! 
